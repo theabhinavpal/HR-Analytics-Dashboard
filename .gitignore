@@ -1,0 +1,20 @@
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Python (if used for data generation scripts)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
